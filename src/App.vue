@@ -20,7 +20,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(135deg, #8b9fff 0%, #a989ff 100%);
   min-height: 100vh;
-  overflow: hidden;
 }
 
 #app {
